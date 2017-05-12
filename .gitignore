@@ -1,0 +1,6 @@
+# Ignora cualquier archivo con extensión HTML
+*.html
+
+# mac os
+.DS_Store
+
